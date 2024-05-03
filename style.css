@@ -1,0 +1,40 @@
+body{
+    font-family: CURSIVE, sans-serif;
+        margin: 0;
+        padding: 20px;
+        color: blanchedalmond;
+        background-color: #231d1d;
+}
+.traits {
+    margin-left: 380px; 
+    margin-bottom: 89px; 
+    line-height: 0.9em;
+}
+.info {
+    margin-left: 381px; 
+    margin-bottom: 40px; 
+    line-height: 0.9em;
+}
+.contacts {
+    margin-left: 382px; 
+    margin-bottom: 393px; 
+    line-height: 0.95em;
+    a:hover {
+        padding: auto;
+        font-size: 150%;
+    }
+    a:visited {
+        color: green;
+    }
+  
+  }
+    
+.img {
+    margin-top: -690px; 
+    }
+
+.a:hover {
+    color:aqua;
+    font-size: 150%;
+
+}
